@@ -16,5 +16,5 @@ As a final-year student learning web development, this project helps me experime
 - A simple, clean user interface  
 - Uses modern frontend stack — React + Vite + standard HTML/CSS/JavaScript
 
-[![Live Demo] (https://img.shields.io/badge/Live-Demo-brightgreen)](https://notes-app-sv1.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://notes-app-sv1.netlify.app)
 
